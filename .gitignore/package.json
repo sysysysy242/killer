@@ -1,0 +1,15 @@
+{
+    "version": "1.4.5b",
+    "title": "Magic Hitler v1.4.5b | Application par Magic Hitler",
+    "name": "Discord Bot",
+    "beta": "Wp",
+    "creator": "Jacques",
+    "description": "raid bot + GUI",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "discord.js": "^11.5.1",
+        "fs": "0.0.1-security",
+        "moment": "^2.24.0",
+        "ms": "^2.1.2"
+    }
+}
